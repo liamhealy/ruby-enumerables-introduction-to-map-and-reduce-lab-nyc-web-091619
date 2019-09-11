@@ -51,4 +51,5 @@ def reduce_to_all_true(source_array)
       all = false
     end
   end
+  all
 end
